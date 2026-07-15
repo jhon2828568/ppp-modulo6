@@ -1,0 +1,26 @@
+Entidad: Causa
+
+Campos:
+
+* id
+* titulo
+* descripcion
+* fecha
+
+Descripción:
+
+La entidad Causa permite almacenar la información principal de una iniciativa ciudadana, incluyendo el nombre de la causa, su descripción y la fecha en que fue creada.
+
+
+Entidad: Apoyo
+
+Campos:
+
+* id
+* causa_id
+* nombre
+* fecha
+
+Descripción:
+
+La entidad Apoyo registra las personas que respaldan una causa determinada. El campo causa_id permite relacionar cada apoyo con la iniciativa correspondiente.
