@@ -1,0 +1,5 @@
+Durante este curso aprendí que la tecnología puede convertirse en una herramienta fundamental para fortalecer la participación ciudadana y la organización comunitaria. Comprendí que desarrollar soluciones digitales no solo implica crear sistemas funcionales, sino también responder a las necesidades reales de las personas y los territorios.
+
+Aprendí la importancia de proteger los datos personales, aplicar buenas prácticas de seguridad y utilizar herramientas tecnológicas de manera responsable. También comprendí cómo elementos como bases de datos, GitHub, APIs y automatizaciones permiten construir soluciones más organizadas y eficientes.
+
+La tecnología tiene un verdadero impacto social cuando facilita la participación, fortalece las causas colectivas y permite que la ciudadanía tenga mayores herramientas para expresar sus necesidades. Este curso me enseñó que programar también significa crear soluciones con sentido social y aportar a la transformación de las comunidades.
